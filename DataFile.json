@@ -1,0 +1,28 @@
+{
+  "coins": [
+    {
+      "name": "CHOW",
+      "price": 1.38052449179227,
+      "quantity": 0
+    },
+    {
+      "name": "DOCE",
+      "price": 1.22488839449273,
+      "quantity": 0
+    },
+    {
+      "name": "GALLO",
+      "price": 0.72934187508275,
+      "quantity": 0
+    },
+    {
+      "name": "TUGA",
+      "price": 0.978294326238491,
+      "quantity": 0
+    }
+  ],
+  "lastPriceUpdate": "2022-02-13T19:11:42.4574267Z",
+  "priceUpdateInSeconds": 30,
+  "totalCommission": 0,
+  "euroBalance": 0
+}
